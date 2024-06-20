@@ -1,3 +1,4 @@
+package exercicios;
 public class exemplo05 {
     public static void main(String[] args){
 

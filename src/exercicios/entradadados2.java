@@ -1,3 +1,4 @@
+package exercicios;
 import java.util.Scanner;
 public class entradadados2 {
     public static void main(String[] args) {

@@ -1,8 +1,9 @@
+package exercicios;
 
 
 import java.util.Locale;
 
-public class temperatura {
+public class tempetatura {
     public static void main(String[] args) {
         double C, F, K, Re, Ra;
         C = 2.43;

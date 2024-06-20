@@ -1,13 +1,12 @@
-public class exemplo02 {
+package exercicios;
+public class exemplo01 {
     public static void main(String[] args){
-
-        int x;
-        double y;
-
+        int x, y;
         x = 5;
-        y= 2 * x;
+        y = 2 * x;
 
         System.out.println(x);
         System.out.println(y);
+
     }
 }
