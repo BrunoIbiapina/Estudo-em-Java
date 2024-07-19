@@ -1,6 +1,7 @@
 package exercicios;
+
 public class exemplo01 {
-    public static void main(String[] args){
+    public static void main(String[] args) {
         int x, y;
         x = 5;
         y = 2 * x;

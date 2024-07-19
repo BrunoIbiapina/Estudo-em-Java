@@ -1,8 +1,9 @@
 package exercicios;
+
 import java.util.Scanner;
 
 public class concidional01 {
-    public static void main(String[] args){
+    public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
         int numero;
@@ -10,10 +11,9 @@ public class concidional01 {
         System.out.println("Digite um número: ");
         numero = sc.nextInt();
 
-        if (numero <0 ){
+        if (numero < 0) {
             System.out.println("Negativo");
-        }
-        else{
+        } else {
             System.out.println("Positivo");
         }
         sc.close();

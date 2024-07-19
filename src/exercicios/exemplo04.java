@@ -1,6 +1,7 @@
 package exercicios;
+
 public class exemplo04 {
-    public static void main(String[] args){
+    public static void main(String[] args) {
         int a, b;
         double resultado;
 
@@ -10,6 +11,6 @@ public class exemplo04 {
         resultado = (double) a / b;
 
         System.out.println(resultado);
-    
+
     }
 }

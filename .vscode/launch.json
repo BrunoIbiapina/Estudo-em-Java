@@ -1,0 +1,266 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "exemplo01",
+            "request": "launch",
+            "mainClass": "estrutura_condicional.exemplo01",
+            "projectName": "estudo_fa31bf2f"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "exercicios.App",
+            "projectName": "estudo_fa31bf2f"
+        },
+        {
+            "type": "java",
+            "name": "concidional01",
+            "request": "launch",
+            "mainClass": "exercicios.concidional01",
+            "projectName": "estudo_fa31bf2f"
+        },
+        {
+            "type": "java",
+            "name": "condicao05",
+            "request": "launch",
+            "mainClass": "exercicios.condicao05",
+            "projectName": "estudo_fa31bf2f"
+        },
+        {
+            "type": "java",
+            "name": "condicional02",
+            "request": "launch",
+            "mainClass": "exercicios.condicional02",
+            "projectName": "estudo_fa31bf2f"
+        },
+        {
+            "type": "java",
+            "name": "condicional03",
+            "request": "launch",
+            "mainClass": "exercicios.condicional03",
+            "projectName": "estudo_fa31bf2f"
+        },
+        {
+            "type": "java",
+            "name": "condicional04",
+            "request": "launch",
+            "mainClass": "exercicios.condicional04",
+            "projectName": "estudo_fa31bf2f"
+        },
+        {
+            "type": "java",
+            "name": "condicional06",
+            "request": "launch",
+            "mainClass": "exercicios.condicional06",
+            "projectName": "estudo_fa31bf2f"
+        },
+        {
+            "type": "java",
+            "name": "condicional07",
+            "request": "launch",
+            "mainClass": "exercicios.condicional07",
+            "projectName": "estudo_fa31bf2f"
+        },
+        {
+            "type": "java",
+            "name": "condicional08",
+            "request": "launch",
+            "mainClass": "exercicios.condicional08",
+            "projectName": "estudo_fa31bf2f"
+        },
+        {
+            "type": "java",
+            "name": "condicional09",
+            "request": "launch",
+            "mainClass": "exercicios.condicional09",
+            "projectName": "estudo_fa31bf2f"
+        },
+        {
+            "type": "java",
+            "name": "condicional10",
+            "request": "launch",
+            "mainClass": "exercicios.condicional10",
+            "projectName": "estudo_fa31bf2f"
+        },
+        {
+            "type": "java",
+            "name": "debug",
+            "request": "launch",
+            "mainClass": "exercicios.debug",
+            "projectName": "estudo_fa31bf2f"
+        },
+        {
+            "type": "java",
+            "name": "entrada03",
+            "request": "launch",
+            "mainClass": "exercicios.entrada03",
+            "projectName": "estudo_fa31bf2f"
+        },
+        {
+            "type": "java",
+            "name": "entrada04",
+            "request": "launch",
+            "mainClass": "exercicios.entrada04",
+            "projectName": "estudo_fa31bf2f"
+        },
+        {
+            "type": "java",
+            "name": "entrada05",
+            "request": "launch",
+            "mainClass": "exercicios.entrada05",
+            "projectName": "estudo_fa31bf2f"
+        },
+        {
+            "type": "java",
+            "name": "entrada07",
+            "request": "launch",
+            "mainClass": "exercicios.entrada07",
+            "projectName": "estudo_fa31bf2f"
+        },
+        {
+            "type": "java",
+            "name": "entrada08",
+            "request": "launch",
+            "mainClass": "exercicios.entrada08",
+            "projectName": "estudo_fa31bf2f"
+        },
+        {
+            "type": "java",
+            "name": "entrada09",
+            "request": "launch",
+            "mainClass": "exercicios.entrada09",
+            "projectName": "estudo_fa31bf2f"
+        },
+        {
+            "type": "java",
+            "name": "entradadados",
+            "request": "launch",
+            "mainClass": "exercicios.entradadados",
+            "projectName": "estudo_fa31bf2f"
+        },
+        {
+            "type": "java",
+            "name": "entradadados2",
+            "request": "launch",
+            "mainClass": "exercicios.entradadados2",
+            "projectName": "estudo_fa31bf2f"
+        },
+        {
+            "type": "java",
+            "name": "exemplo01(1)",
+            "request": "launch",
+            "mainClass": "exercicios.exemplo01",
+            "projectName": "estudo_fa31bf2f"
+        },
+        {
+            "type": "java",
+            "name": "exemplo02",
+            "request": "launch",
+            "mainClass": "exercicios.exemplo02",
+            "projectName": "estudo_fa31bf2f"
+        },
+        {
+            "type": "java",
+            "name": "exemplo03",
+            "request": "launch",
+            "mainClass": "exercicios.exemplo03",
+            "projectName": "estudo_fa31bf2f"
+        },
+        {
+            "type": "java",
+            "name": "exemplo04",
+            "request": "launch",
+            "mainClass": "exercicios.exemplo04",
+            "projectName": "estudo_fa31bf2f"
+        },
+        {
+            "type": "java",
+            "name": "exemplo05",
+            "request": "launch",
+            "mainClass": "exercicios.exemplo05",
+            "projectName": "estudo_fa31bf2f"
+        },
+        {
+            "type": "java",
+            "name": "funcoes01",
+            "request": "launch",
+            "mainClass": "exercicios.funcoes01",
+            "projectName": "estudo_fa31bf2f"
+        },
+        {
+            "type": "java",
+            "name": "tempetatura",
+            "request": "launch",
+            "mainClass": "exercicios.tempetatura",
+            "projectName": "estudo_fa31bf2f"
+        },
+        {
+            "type": "java",
+            "name": "exercicio_parte_01",
+            "request": "launch",
+            "mainClass": "questoes.exercicio_parte_01",
+            "projectName": "estudo_fa31bf2f"
+        },
+        {
+            "type": "java",
+            "name": "exercicio_parte_02",
+            "request": "launch",
+            "mainClass": "questoes.exercicio_parte_02",
+            "projectName": "estudo_fa31bf2f"
+        },
+        {
+            "type": "java",
+            "name": "exercicio_parte_03",
+            "request": "launch",
+            "mainClass": "questoes.exercicio_parte_03",
+            "projectName": "estudo_fa31bf2f"
+        },
+        {
+            "type": "java",
+            "name": "exercicio_parte_04",
+            "request": "launch",
+            "mainClass": "questoes.exercicio_parte_04",
+            "projectName": "estudo_fa31bf2f"
+        },
+        {
+            "type": "java",
+            "name": "exercicio_parte_05",
+            "request": "launch",
+            "mainClass": "questoes.exercicio_parte_05",
+            "projectName": "estudo_fa31bf2f"
+        },
+        {
+            "type": "java",
+            "name": "exercicio_parte_06",
+            "request": "launch",
+            "mainClass": "questoes.exercicio_parte_06",
+            "projectName": "estudo_fa31bf2f"
+        },
+        {
+            "type": "java",
+            "name": "exercicio_parte_07",
+            "request": "launch",
+            "mainClass": "questoes.exercicio_parte_07",
+            "projectName": "estudo_fa31bf2f"
+        },
+        {
+            "type": "java",
+            "name": "exercicio_parte_08",
+            "request": "launch",
+            "mainClass": "questoes.exercicio_parte_08",
+            "projectName": "estudo_fa31bf2f"
+        }
+    ]
+}
