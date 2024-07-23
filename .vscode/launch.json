@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "repeticao08",
+            "request": "launch",
+            "mainClass": "exercicios.repeticao08",
+            "projectName": "estudo_fa31bf2f"
+        },
+        {
+            "type": "java",
+            "name": "repeticao07",
+            "request": "launch",
+            "mainClass": "exercicios.repeticao07",
+            "projectName": "estudo_fa31bf2f"
+        },
+        {
+            "type": "java",
+            "name": "repeticao06",
+            "request": "launch",
+            "mainClass": "exercicios.repeticao06",
+            "projectName": "estudo_fa31bf2f"
+        },
+        {
+            "type": "java",
             "name": "repeticao05",
             "request": "launch",
             "mainClass": "exercicios.repeticao05",
