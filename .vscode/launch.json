@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "repeticao05",
+            "request": "launch",
+            "mainClass": "exercicios.repeticao05",
+            "projectName": "estudo_fa31bf2f"
+        },
+        {
+            "type": "java",
+            "name": "repeticao04",
+            "request": "launch",
+            "mainClass": "exercicios.repeticao04",
+            "projectName": "estudo_fa31bf2f"
+        },
+        {
+            "type": "java",
+            "name": "repeticao03",
+            "request": "launch",
+            "mainClass": "exercicios.repeticao03",
+            "projectName": "estudo_fa31bf2f"
+        },
+        {
+            "type": "java",
+            "name": "repeticao02",
+            "request": "launch",
+            "mainClass": "exercicios.repeticao02",
+            "projectName": "estudo_fa31bf2f"
+        },
+        {
+            "type": "java",
+            "name": "repeticao01",
+            "request": "launch",
+            "mainClass": "exercicios.repeticao01",
+            "projectName": "estudo_fa31bf2f"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"

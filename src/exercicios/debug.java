@@ -5,9 +5,9 @@ import java.util.Scanner;
 
 public class debug {
 
-        public static void main(String[] args) {
-            Locale.setDefault(Locale.US);
-            Scanner sc = new Scanner(System.in);
+    public static void main(String[] args) {
+        Locale.setDefault(Locale.US);
+        try (Scanner sc = new Scanner(System.in)) {
 
             double largura;
             largura = sc.nextDouble();
@@ -23,8 +23,6 @@ public class debug {
             System.out.printf("AREA = %.2f%n", area);
             System.out.printf("PRECO = %.2f%n", preco);
 
-            sc.close();
         }
     }
-
-
+}
