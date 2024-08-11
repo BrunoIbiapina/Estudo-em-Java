@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "testebit",
+            "request": "launch",
+            "mainClass": "outrostopicos.testebit",
+            "projectName": "estudo_fa31bf2f"
+        },
+        {
+            "type": "java",
+            "name": "exemplo01",
+            "request": "launch",
+            "mainClass": "outrostopicos.exemplo01",
+            "projectName": "estudo_fa31bf2f"
+        },
+        {
+            "type": "java",
+            "name": "exemplo01",
+            "request": "launch",
+            "mainClass": "exemplo01",
+            "projectName": "estudo_fa31bf2f"
+        },
+        {
+            "type": "java",
+            "name": "aula01",
+            "request": "launch",
+            "mainClass": "icevjava.aula01",
+            "projectName": "estudo_fa31bf2f"
+        },
+        {
+            "type": "java",
+            "name": "aula01",
+            "request": "launch",
+            "mainClass": "aula01",
+            "projectName": "estudo_fa31bf2f"
+        },
+        {
+            "type": "java",
+            "name": "repeticao10",
+            "request": "launch",
+            "mainClass": "exercicios.repeticao10",
+            "projectName": "estudo_fa31bf2f"
+        },
+        {
+            "type": "java",
             "name": "repeticao08",
             "request": "launch",
             "mainClass": "exercicios.repeticao08",
