@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "sintaxe2",
+            "request": "launch",
+            "mainClass": "funcoes.sintaxe2",
+            "projectName": "estudo_fa31bf2f"
+        },
+        {
+            "type": "java",
+            "name": "sintaxe",
+            "request": "launch",
+            "mainClass": "funcoes.sintaxe",
+            "projectName": "estudo_fa31bf2f"
+        },
+        {
+            "type": "java",
             "name": "estudosplit",
             "request": "launch",
             "mainClass": "estudostring.estudosplit",
