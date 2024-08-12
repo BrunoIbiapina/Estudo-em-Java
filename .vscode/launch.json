@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "estudosplit",
+            "request": "launch",
+            "mainClass": "estudostring.estudosplit",
+            "projectName": "estudo_fa31bf2f"
+        },
+        {
+            "type": "java",
+            "name": "exemplo01",
+            "request": "launch",
+            "mainClass": "estudostring.exemplo01",
+            "projectName": "estudo_fa31bf2f"
+        },
+        {
+            "type": "java",
             "name": "testebit",
             "request": "launch",
             "mainClass": "outrostopicos.testebit",
