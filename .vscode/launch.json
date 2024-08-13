@@ -8,6 +8,13 @@
             "type": "java",
             "name": "Program",
             "request": "launch",
+            "mainClass": "projeto01.aplicacao.Program",
+            "projectName": "estudo_fa31bf2f"
+        },
+        {
+            "type": "java",
+            "name": "Program",
+            "request": "launch",
             "mainClass": "aplication2.Program",
             "projectName": "estudo_fa31bf2f"
         },

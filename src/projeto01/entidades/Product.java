@@ -1,4 +1,4 @@
-package entidade02;
+package projeto01.entidades;
 
 public class Product {
 
@@ -6,9 +6,8 @@ public class Product {
     public double price;
     public int quantity;
 
-    public double totalValueInStock() {
+    public double totalValueInstock() {
         return price * quantity;
-
     }
 
     public void AddProducts(int quantity) {
@@ -16,18 +15,19 @@ public class Product {
 
     }
 
-    public void RemoveProducts(int quantity) {
+    public void RemoveProduct(int quantity) {
         this.quantity -= quantity;
+
     }
 
     public String toString() {
         return name
-                + ", $ "
-                + String.format("%.2f", price)
-                + ", "
+                + " , R$ "
+                + String.format(" %.2f ", price)
+                + " , "
                 + quantity
-                + " units, Total: $ "
-                + String.format("%.2f", totalValueInStock());
-
+                + " quantidade , Total: R$ "
+                + String.format(" %.2f ", totalValueInstock());
     }
+
 }
