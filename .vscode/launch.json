@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Program",
+            "request": "launch",
+            "mainClass": "aplication2.Program",
+            "projectName": "estudo_fa31bf2f"
+        },
+        {
+            "type": "java",
+            "name": "progra",
+            "request": "launch",
+            "mainClass": "aplication.progra",
+            "projectName": "estudo_fa31bf2f"
+        },
+        {
+            "type": "java",
+            "name": "progra",
+            "request": "launch",
+            "mainClass": "application.progra",
+            "projectName": "estudo_fa31bf2f"
+        },
+        {
+            "type": "java",
+            "name": "program",
+            "request": "launch",
+            "mainClass": "application.program",
+            "projectName": "estudo_fa31bf2f"
+        },
+        {
+            "type": "java",
             "name": "sintaxe2",
             "request": "launch",
             "mainClass": "funcoes.sintaxe2",
