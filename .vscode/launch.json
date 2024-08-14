@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "exercicio05",
+            "request": "launch",
+            "mainClass": "icevjava.exercicio05",
+            "projectName": "estudo_fa31bf2f"
+        },
+        {
+            "type": "java",
+            "name": "exercicio04",
+            "request": "launch",
+            "mainClass": "icevjava.exercicio04",
+            "projectName": "estudo_fa31bf2f"
+        },
+        {
+            "type": "java",
+            "name": "exercicio03",
+            "request": "launch",
+            "mainClass": "icevjava.exercicio03",
+            "projectName": "estudo_fa31bf2f"
+        },
+        {
+            "type": "java",
+            "name": "exercicio02",
+            "request": "launch",
+            "mainClass": "icevjava.exercicio02",
+            "projectName": "estudo_fa31bf2f"
+        },
+        {
+            "type": "java",
+            "name": "exercicio01",
+            "request": "launch",
+            "mainClass": "icevjava.exercicio01",
+            "projectName": "estudo_fa31bf2f"
+        },
+        {
+            "type": "java",
             "name": "Program",
             "request": "launch",
             "mainClass": "projeto01.aplicacao.Program",
