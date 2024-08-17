@@ -1,3 +1,13 @@
+
+/*Exercício 3: 
+
+Verificação de Paridade
+Escreva um programa que receba um número inteiro e informe se ele é
+par ou ímpar.
+Exemplo:
+Entrada: 6
+Saída: Par */
+
 package icevjava;
 
 import java.util.Scanner;

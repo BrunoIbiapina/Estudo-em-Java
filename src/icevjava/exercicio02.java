@@ -1,3 +1,16 @@
+
+/*
+Exercício 2:
+
+Fatorial de um Número
+Implemente um algoritmo que calcule o fatorial de um número n. O
+fatorial de n é o produto de todos os números inteiros positivos menores
+ou iguais a n.
+Exemplo:
+Entrada: 5
+Saída: 120 (pois 5! = 5 × 4 × 3 × 2 × 1)
+*/
+
 package icevjava;
 
 import java.util.Scanner;

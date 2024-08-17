@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Projeto03",
+            "request": "launch",
+            "mainClass": "projeto03.Projeto03",
+            "projectName": "estudo_fa31bf2f"
+        },
+        {
+            "type": "java",
+            "name": "application",
+            "request": "launch",
+            "mainClass": "projeto02.application",
+            "projectName": "estudo_fa31bf2f"
+        },
+        {
+            "type": "java",
+            "name": "application",
+            "request": "launch",
+            "mainClass": "application",
+            "projectName": "estudo_fa31bf2f"
+        },
+        {
+            "type": "java",
+            "name": "programa",
+            "request": "launch",
+            "mainClass": "projeto02.application.programa",
+            "projectName": "estudo_fa31bf2f"
+        },
+        {
+            "type": "java",
+            "name": "Programa02",
+            "request": "launch",
+            "mainClass": "projeto02.application.Programa02",
+            "projectName": "estudo_fa31bf2f"
+        },
+        {
+            "type": "java",
+            "name": "programa02",
+            "request": "launch",
+            "mainClass": "projeto02.application.programa02",
+            "projectName": "estudo_fa31bf2f"
+        },
+        {
+            "type": "java",
+            "name": "programa02",
+            "request": "launch",
+            "mainClass": "projeto02.aplication.programa02",
+            "projectName": "estudo_fa31bf2f"
+        },
+        {
+            "type": "java",
+            "name": "programa02",
+            "request": "launch",
+            "mainClass": "projeto02.Aplicacao.programa02",
+            "projectName": "estudo_fa31bf2f"
+        },
+        {
+            "type": "java",
+            "name": "programa02",
+            "request": "launch",
+            "mainClass": "programa02",
+            "projectName": "estudo_fa31bf2f"
+        },
+        {
+            "type": "java",
             "name": "exercicio05",
             "request": "launch",
             "mainClass": "icevjava.exercicio05",
