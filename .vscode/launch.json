@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Programa",
+            "request": "launch",
+            "mainClass": "projeto04.aplicacao.Programa",
+            "projectName": "estudo_fa31bf2f"
+        },
+        {
+            "type": "java",
+            "name": "Programa",
+            "request": "launch",
+            "mainClass": "projeto04.Programa",
+            "projectName": "estudo_fa31bf2f"
+        },
+        {
+            "type": "java",
+            "name": "programa",
+            "request": "launch",
+            "mainClass": "projeto04.application.programa",
+            "projectName": "estudo_fa31bf2f"
+        },
+        {
+            "type": "java",
+            "name": "application",
+            "request": "launch",
+            "mainClass": "projeto04.application.application",
+            "projectName": "estudo_fa31bf2f"
+        },
+        {
+            "type": "java",
+            "name": "application",
+            "request": "launch",
+            "mainClass": "Projeto04.application",
+            "projectName": "estudo_fa31bf2f"
+        },
+        {
+            "type": "java",
             "name": "Projeto03",
             "request": "launch",
             "mainClass": "projeto03.Projeto03",
