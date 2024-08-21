@@ -1,4 +1,4 @@
-package icevjava;
+package icevjava.exercicios;
 
 public class aula01 {
     public static void main(String[] args) {

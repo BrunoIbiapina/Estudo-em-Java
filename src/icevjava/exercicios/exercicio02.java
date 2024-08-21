@@ -11,7 +11,7 @@ Entrada: 5
 Saída: 120 (pois 5! = 5 × 4 × 3 × 2 × 1)
 */
 
-package icevjava;
+package icevjava.exercicios;
 
 import java.util.Scanner;
 

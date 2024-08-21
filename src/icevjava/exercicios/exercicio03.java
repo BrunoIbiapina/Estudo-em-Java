@@ -8,7 +8,7 @@ Exemplo:
 Entrada: 6
 Saída: Par */
 
-package icevjava;
+package icevjava.exercicios;
 
 import java.util.Scanner;
 

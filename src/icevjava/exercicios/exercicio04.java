@@ -5,7 +5,7 @@ número primo é um número maior que 1 que tem apenas dois divisores:
 Exemplo:
 Entrada: 7
 Saída: Primo */
-package icevjava;
+package icevjava.exercicios;
 
 import java.util.Scanner;
 

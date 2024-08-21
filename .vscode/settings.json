@@ -7,5 +7,6 @@
     "java.debug.settings.onBuildFailureProceed": true,
     "cSpell.words": [
         "estudostring"
-    ]
+    ],
+    "files.autoSaveWorkspaceFilesOnly": false
 }

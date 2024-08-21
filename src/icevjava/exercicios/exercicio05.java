@@ -10,7 +10,7 @@ Exemplo:
 Entrada: 6
 Saída: [0, 1, 1, 2, 3,  */
 
-package icevjava;
+package icevjava.exercicios;
 
 import java.util.ArrayList;
 import java.util.Scanner;
