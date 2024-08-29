@@ -10,6 +10,33 @@ public class Livro {
         this.autor = autor;
         this.numeroDePaginas = numeroDePaginas;
     }
+    public Livro(){
+
+    }
+
+    public String getTitulo() {
+        return titulo;
+    }
+
+    public void setTitulo(String titulo) {
+        this.titulo = titulo;
+    }
+
+    public String getAutor() {
+        return autor;
+    }
+
+    public void setAutor(String autor) {
+        this.autor = autor;
+    }
+
+    public int getNumeroDePaginas() {
+        return numeroDePaginas;
+    }
+
+    public void setNumeroDePaginas(int numeroDePaginas) {
+        this.numeroDePaginas = numeroDePaginas;
+    }
 
     public void detalhesDolivro() {
         System.out.println("Titulo: " + titulo);

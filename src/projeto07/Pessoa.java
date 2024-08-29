@@ -12,6 +12,9 @@ public class Pessoa {
         this.cidade = cidade;
         this.idade = idade;
     }
+    public Pessoa(){
+        
+    }
 
     // metodos
     public void exibirInformacoes() {
@@ -20,6 +23,7 @@ public class Pessoa {
         System.out.println("Idade: " + idade);
 
     }
+    
 
     // metodo aumentar idade
     public void aniversario() {
