@@ -8,6 +8,55 @@
       "type": "java",
       "name": "Program",
       "request": "launch",
+      "mainClass": "projeto22.Program",
+      "projectName": "estudo_fa31bf2f"
+    },
+    {
+      "type": "java",
+      "name": "Program",
+      "request": "launch",
+      "mainClass": "projeto21.Program",
+      "projectName": "estudo_fa31bf2f"
+    },
+    {
+      "type": "java",
+      "name": "Program",
+      "request": "launch",
+      "mainClass": "projeto20.Program",
+      "projectName": "estudo_fa31bf2f"
+    },
+    {
+      "type": "java",
+      "name": "Program",
+      "request": "launch",
+      "mainClass": "projeto19.Program",
+      "projectName": "estudo_fa31bf2f"
+    },
+    {
+      "type": "java",
+      "name": "Program",
+      "request": "launch",
+      "mainClass": "projeto18.Program",
+      "projectName": "estudo_fa31bf2f"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "projeto17.Main",
+      "projectName": "estudo_fa31bf2f"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "projeto08.Main",
+      "projectName": "estudo_fa31bf2f"
+    },
+    {
+      "type": "java",
+      "name": "Program",
+      "request": "launch",
       "mainClass": "projeto16.Program",
       "projectName": "estudo_fa31bf2f"
     },

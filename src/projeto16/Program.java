@@ -9,7 +9,12 @@ public class Program {
         CurrencyConverter converter = new CurrencyConverter(5.60); // Defina a cotação atual
         Scanner entrada = new Scanner(System.in);
         System.out.println("Digite o valor que deseja dar em real: ");
-        double valorReal =  entrada.nextDouble();
+        double valorReal = entrada.nextDouble();
         converter.exibirInformacoes(valorReal);
+
+        System.out.println("Digite o valor que deseja dar em real: ");
+        valorReal = entrada.nextDouble();
+        converter.exibirInformacoes(valorReal);
+        entrada.close();
     }
 }
