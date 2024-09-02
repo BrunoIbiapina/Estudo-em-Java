@@ -1,32 +1,54 @@
 package projeto22;
 
 import java.util.Scanner;
+import java.util.ArrayList;
+import java.util.List;
 
 public class Curso {
     public String titulo;
     private int duracaoHoras;
     private int vagasDisponiveis;
+    private List<String> alunosMatriculados;
 
     public Curso(String titulo, int duracaoHoras, int vagasDisponiveis) {
         this.titulo = titulo;
         this.duracaoHoras = duracaoHoras;
         this.vagasDisponiveis = vagasDisponiveis;
+        this.alunosMatriculados = new ArrayList<>();
 
     }
 
     public void matricularAluno() {
+        Scanner entrada = new Scanner(System.in);
         if (vagasDisponiveis > 0) {
-            vagasDisponiveis--;
-            System.out.println("Aluno matriculado com sucesso. Vagas restantes: " + vagasDisponiveis);
-        } else {
-            System.out.println("Não há vagas");
-        }
+            System.out.print("Digite o nome do aluno: ");
+            String nomeAluno = entrada.nextLine();
+            System.out.print("Digite o curso que o aluno deseja fazer: ");
+            String cursoDesejado = entrada.nextLine();
 
+            alunosMatriculados.add(nomeAluno + " - Curso: " + cursoDesejado);
+            vagasDisponiveis--;
+            System.out.println("Aluno " + nomeAluno + " matriculado com sucesso no curso " + cursoDesejado
+                    + ". Vagas restantes: " + vagasDisponiveis);
+
+        } else {
+            System.out.println("Não há vagas disponíveis.");
+        }
     }
 
     public void cancelarMatricula() {
-        vagasDisponiveis++;
-        System.out.println("Matrícula cancelada com sucesso. Vagas disponíveis: " + vagasDisponiveis);
+        Scanner entrada = new Scanner(System.in);
+        System.out.print("Digite o nome do aluno que deseja cancelar a matrícula: ");
+        String nomeAluno = entrada.nextLine();
+
+        boolean removed = alunosMatriculados.removeIf(aluno -> aluno.startsWith(nomeAluno));
+        if (removed) {
+            vagasDisponiveis++;
+            System.out.println("Matrícula do aluno " + nomeAluno + " cancelada com sucesso. Vagas disponíveis: "
+                    + vagasDisponiveis);
+        } else {
+            System.out.println("Aluno não encontrado.");
+        }
     }
 
     public int getvagasTotal() {
@@ -35,8 +57,12 @@ public class Curso {
 
     public void exibirInformacoes() {
         System.out.println("Nome do curso: " + titulo);
-        System.out.println("Duracão: " + duracaoHoras);
+        System.out.println("Duração: " + duracaoHoras + " horas");
         System.out.println("Vagas disponíveis: " + getvagasTotal());
+        System.out.println("Alunos matriculados: ");
+        for (String aluno : alunosMatriculados) {
+            System.out.println(aluno);
+        }
     }
 
     public void exibirMenu() {
