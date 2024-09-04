@@ -17,7 +17,7 @@ public class Produto {
     public void aplicarDesconto(double porcentagem) {
         if (porcentagem >= 10 && porcentagem <= 90) {
             double desconto = porcentagem / 100;
-            preco = preco - (preco * desconto);
+            setPreco(getPreco() - (getPreco() * desconto));
             System.out.println("Valor do produto com desconto fica " + preco);
             System.out.println("O desconto é de : " + (preco * desconto));
 
@@ -30,7 +30,18 @@ public class Produto {
     public double getPreco() {
         return this.preco;
     }
-    public String getNome(){
+
+    public String getNome() {
         return this.nome;
+    }
+
+    public void setPreco(double preco) {
+
+        this.preco = preco;
+
+    }
+
+    public void setNome(String nome) {
+        this.nome = nome;
     }
 }

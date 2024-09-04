@@ -9,7 +9,7 @@ public class Program {
          System.out.println(produto1.getPreco());
          System.out.println(produto1.getNome());
         
-        produto1.aplicarDesconto(10);
+        produto1.aplicarDesconto(20);
         produto1.exibirInformacoes();
 
     }
