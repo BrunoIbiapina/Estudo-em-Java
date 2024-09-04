@@ -67,7 +67,9 @@ public class Evento {
             for (int i = 0; i < cursosDisponiveis.size(); i++) {
                 System.out.println((i + 1) + " - " + cursosDisponiveis.get(i));
             }
+
             int escolha = entrada.nextInt();
+
             if (escolha > 0 && escolha <= cursosDisponiveis.size()) {
                 Curso cursoSelecionado = cursosDisponiveis.get(escolha - 1);
                 cursoSelecionado.matricularAluno();
@@ -92,6 +94,7 @@ public class Evento {
             System.out.println("Não há cursos disponíveis.");
 
         }
+    }
 
     public void mostrarDetalhes() {
         System.out.println("Evento: " + nome);
@@ -100,6 +103,7 @@ public class Evento {
         for (Curso curso : cursosDisponiveis) {
             System.out.println(curso);
         }
+
         System.out.println("Alunos matriculados:");
         for (String aluno : alunosMatriculados) {
             System.out.println(aluno);
