@@ -8,6 +8,90 @@
       "type": "java",
       "name": "Program",
       "request": "launch",
+      "mainClass": "Projeto30.Program",
+      "projectName": "estudo_fa31bf2f"
+    },
+    {
+      "type": "java",
+      "name": "Program",
+      "request": "launch",
+      "mainClass": "Projeto29.Program",
+      "projectName": "estudo_fa31bf2f"
+    },
+    {
+      "type": "java",
+      "name": "GerarPDF",
+      "request": "launch",
+      "mainClass": "questoes.GerarPDF",
+      "projectName": "estudo_fa31bf2f"
+    },
+    {
+      "type": "java",
+      "name": "Program",
+      "request": "launch",
+      "mainClass": "Projeto28.Program",
+      "projectName": "estudo_fa31bf2f"
+    },
+    {
+      "type": "java",
+      "name": "Program",
+      "request": "launch",
+      "mainClass": "Projeto27.Program",
+      "projectName": "estudo_fa31bf2f"
+    },
+    {
+      "type": "java",
+      "name": "Programam",
+      "request": "launch",
+      "mainClass": "RevisãoP1.Exercício10.Programam",
+      "projectName": "estudo_fa31bf2f"
+    },
+    {
+      "type": "java",
+      "name": "Program",
+      "request": "launch",
+      "mainClass": "RevisãoP1.Exercício03.Program",
+      "projectName": "estudo_fa31bf2f"
+    },
+    {
+      "type": "java",
+      "name": "Program",
+      "request": "launch",
+      "mainClass": "RevisãoP1.Exercício01.Exercício02.Program",
+      "projectName": "estudo_fa31bf2f"
+    },
+    {
+      "type": "java",
+      "name": "Program",
+      "request": "launch",
+      "mainClass": "projeto27.Program",
+      "projectName": "estudo_fa31bf2f"
+    },
+    {
+      "type": "java",
+      "name": "Program",
+      "request": "launch",
+      "mainClass": "Projeto26.Program",
+      "projectName": "estudo_fa31bf2f"
+    },
+    {
+      "type": "java",
+      "name": "Program",
+      "request": "launch",
+      "mainClass": "Projeto25.Program",
+      "projectName": "estudo_fa31bf2f"
+    },
+    {
+      "type": "java",
+      "name": "Program",
+      "request": "launch",
+      "mainClass": "projeto24.Program",
+      "projectName": "estudo_fa31bf2f"
+    },
+    {
+      "type": "java",
+      "name": "Program",
+      "request": "launch",
       "mainClass": "projeto23.Program",
       "projectName": "estudo_fa31bf2f"
     },

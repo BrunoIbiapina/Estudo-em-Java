@@ -5,13 +5,11 @@ public class Reserva {
     private int numeroQuartos;
     private boolean status;
 
-    public Reserva() {
-
-    }
-
+    
     public void reservar(int numeroQuartos) {
         this.numeroQuartos = numeroQuartos;
         this.status = true;
+        this. cliente = cliente;
 
     }
 

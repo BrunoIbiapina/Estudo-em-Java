@@ -11,6 +11,9 @@ public class Program {
         
         produto1.aplicarDesconto(20);
         produto1.exibirInformacoes();
+        double desconto = 20.0 / 100;
+        System.out.println("Valor desconto: " + (produto1.getPreco() * desconto));
+        produto1.exibirInformacoes();
 
     }
     
